@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28096999-1463-4199-afc5-d3f7c331d38a" name="변경" comment="" />
+    <list default="true" id="28096999-1463-4199-afc5-d3f7c331d38a" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Harp-Chatbot2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/.conda/envs/pytorch_env/Lib/site-packages/streamlit_chat/__init__.py" root0="FORCE_HIGHLIGHTING" />
@@ -47,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,7 +151,7 @@
       <workItem from="1652771655274" duration="18236000" />
       <workItem from="1653544916413" duration="3472000" />
       <workItem from="1653562702160" duration="1433000" />
-      <workItem from="1653566821182" duration="608000" />
+      <workItem from="1653566821182" duration="2164000" />
     </task>
     <servers />
   </component>
